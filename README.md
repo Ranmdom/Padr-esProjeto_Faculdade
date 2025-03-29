@@ -1,4 +1,4 @@
-# PadresProjeto_Faculdade
+# PadroesProjeto_Faculdade
 
 Grupo do trabalho: 
 
