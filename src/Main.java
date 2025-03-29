@@ -4,7 +4,7 @@ import static Usuario.UsuarioFactory.*;
 
 public class Main {
     public static void main(String[] args) {
-        Usuario Joao = CriarJoao();
+        Usuario joao = CriarJoao();
         Usuario Ana = CriarAna();
         }
     }
